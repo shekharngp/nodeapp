@@ -1,0 +1,9 @@
+{
+	"name": "test-shekhar-df-eastus2",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "08dd24de-b26b-4798-a99d-7bfa8e196b6d",
+		"tenantId": "2dbf2a3e-2c5d-4321-978d-d2012d451bad"
+	}
+}
